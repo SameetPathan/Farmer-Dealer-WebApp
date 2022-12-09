@@ -1,0 +1,9 @@
+1. Install VS code
+2. Install Npm 
+3. Install Node
+
+Commands to run - 
+
+1. npm install -g expo-cli
+
+2. expo init projectname
